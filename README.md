@@ -2,4 +2,4 @@
 Practice git commands
  GitHub Practice
 
- Learning GitHub hands-on
+ Learning GitHub hands-on - day 1
